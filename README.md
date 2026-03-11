@@ -140,15 +140,7 @@ admin@skill.com
 ```sh
 admin123
 ```
-___________________
-| Team Work Pluse |
-| --------------- |
-| Harshith        |  
-| Bindhu Reddy    |
-| Harshitha       |
-| Akshitha Reddy  |
-| Chakradhar Reddy|
-| Sai Koushik     |
+
 
 
  Project Status
